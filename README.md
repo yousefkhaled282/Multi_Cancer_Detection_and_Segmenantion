@@ -1,4 +1,4 @@
-# Title: Cancer Detection and Segmentation using Computer Vision
+# Title: Multi Cancer Detection and Segmentation using Computer Vision
 # Description:
   This project is a computer vision application that uses deep learning algorithms to classify, detect, and segment cancer in brain and breast images.
   The application first classifies brain and breast images, then detects the presence of tumors in brain images. 
